@@ -1,2 +1,3 @@
 [Demo]
-main-feature-1.8
+main-feature-1
+test
